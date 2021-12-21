@@ -1,0 +1,11 @@
+panel==0.12.1
+geopandas==0.10.2
+folium
+altair==4.1.0
+notebook==6.4.3
+vega==3.5.0
+param==1.11.1
+holoviews==1.14.5
+hvplot==0.7.3
+bokeh==2.3.3
+carto2gpd==1.0.11
