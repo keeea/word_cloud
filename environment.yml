@@ -4,8 +4,6 @@ channels:
   - defaults
 dependencies:
   - pip=21.2.4
-  - ipython=7.27.0
-  - ipython_genutils=0.2.0
   - matplotlib=3.4.3
   - matplotlib-base=3.4.3
   - matplotlib-inline=0.1.3
